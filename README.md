@@ -1,24 +1,13 @@
-# Hi, I'm Nikki 👋
-
-Fashion aur AI design ko mix karke **SwanQueen Creations** chala rahi/rahe hoon 🦢👑
-
-## 🛠️ Skills
-
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
-
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-
-
-## 🔗 Projects
-- 🌌 AI Universe: custom AI chat dashboard
-- 🦢 SwanQueen Creations: luxury fashion & AI design brand
+Hi, I'm Nikki 👋
+I blend fashion design and AI to create original projects. I'm the founder of SwanQueen Creations, a luxury brand offering custom footwear, gowns, and AI-crafted designs inspired by swan and crown motifs. 🦢👑
+🛠️ Skills
+Python
+JavaScript
+Web Development
+AI Tools & Creative Design
+🔭 Currently
+Building AI Universe, a custom AI chat dashboard web app
+Growing SwanQueen Creations
+📫 Connect
+Instagram: @swanqueen_ creations 
+Email: @riynikki@gmail.com
