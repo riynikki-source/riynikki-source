@@ -9,5 +9,5 @@ AI Tools & Creative Design
 Building AI Universe, a custom AI chat dashboard web app
 Growing SwanQueen Creations
 📫 Connect
-Instagram: @swanqueen_ creations 
+Instagram: swanqueen_creations
 Email: @riynikki@gmail.com
